@@ -1,0 +1,43 @@
+
+Name: generate/template/src/Gpt_PBcfg.c
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377426914157984294506793404554349609175003540229112875
+ 2033249690190380406173807238645213140582095703343891
+
+Name: generate/template/Gpt_Bswmd.arxml
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 28964594773974407034860410797119439392380594708820925095637
+ 024134262324437719774473500104028731748547122535421644
+
+Name: generate/template/inc/Gpt_Cfg.h
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 28964594753601080984508759693496711248584631134637160205417
+ 474827331829670374007149655907668545841060663974635588
+
+Name: generate/template/Gpt.m
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 28964594747853504383174331600731702750314490362642709819728
+ 925016117514019799183062041424528823596413306089518393
+
+Name: config/Gpt.xdm
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377423119246023644929572527449203838585268321615317969
+ 2241534503018151183610880430182285200110896672064742
+
+Name: generate/template/inc/Gpt_PBcfg.h
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 28964594773969670124973684466251836022486788258977901425945
+ 104968607936070166840212514399007851798669288839300100
+

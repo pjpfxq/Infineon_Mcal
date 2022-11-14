@@ -1,0 +1,36 @@
+
+Name: generate/template/inc/I2c_PBcfg.h
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377424157885222632952759919955994046750513797576237351
+ 1712726669269892707826271578858872413668023030999866
+
+Name: generate/template/I2c_Bswmd.arxml
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377425753382318919098189325053216659810155003500711323
+ 8947956895742345203271045505970913106229595923839206
+
+Name: config/I2c.xdm
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 28964594773963139268406795892691738273539124006382743861146
+ 560961770988611071577463892662057949580671304756014854
+
+Name: generate/template/src/I2c_PBcfg.c
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377420608609316601957518948627046531820332334376464953
+ 7575224093859491160162676869542693236151161273375390
+
+Name: generate/template/inc/I2c_Cfg.h
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377421883709016142306182904956243994047740392368001713
+ 2458943818178218184938089888725056824840568706658210
+
