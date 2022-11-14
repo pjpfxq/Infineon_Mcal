@@ -1,0 +1,43 @@
+
+Name: generate/template/src/Port_PBcfg.c
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377426742440476205178983023617898808303697541892508849
+ 6360306296175114637173140264301742690779289873917574
+
+Name: generate/template/Port.m
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377425658875620238936478917535909459152566034089141716
+ 8155384211638636767660605734438568460548259717010990
+
+Name: generate/template/inc/Port_Cfg.h
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377422811619868426320528541399226321221298167867355242
+ 0757373940016512403322512139228199828067120775155227
+
+Name: generate/template/inc/Port_PBcfg.h
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377420196534225411737232516545363916114860189107067410
+ 0042080517058220136587718373078313003727665269140813
+
+Name: config/Port.xdm
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377421231795813906734644614952061687782029334088048266
+ 7123430513387343338672032736815367420618320422766538
+
+Name: generate/template/Port_Bswmd.arxml
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377423173511633595145565767384598227148585705969904930
+ 6001658082244079701472250196130039828788570316256599
+
