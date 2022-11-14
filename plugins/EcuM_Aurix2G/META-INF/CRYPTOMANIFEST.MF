@@ -1,0 +1,22 @@
+
+Name: generate/Demo_Aurix2G/DemoApp_Cfg.h
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 28964594754786849518211577471818170450749871114722328497205
+ 817666075231277741214175345024800698609829445435597545
+
+Name: generate/Demo_Aurix2G/ModuleDelivery.bat
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377425226006055523060237776766994578819076661757894968
+ 0583237050522900038213388908708957139142174844484246
+
+Name: config/EcuM.xdm
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 44189296923204610636574899397354309154457585407961622389861
+ 7475319009128545314695805837098119113740759337776
+
