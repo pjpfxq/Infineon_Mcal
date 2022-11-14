@@ -1,0 +1,36 @@
+
+Name: generate/template/src/Dio_Lcfg.c
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377423130049739268389531728758092026846240372146493888
+ 9080087260924480914804376065147224832208627494115080
+
+Name: generate/template/Dio.m
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 28964594773966915096700626295758651270683296013695556271457
+ 919665940969788735546248955694616314370128829628451174
+
+Name: generate/template/inc/Dio_Cfg.h
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377421242284330920959158347231132090848503222650573016
+ 0321507076800201033789350573085712450746493382103471
+
+Name: generate/template/Dio_Bswmd.arxml
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 28964594744534277596656826476030510538236374859628003365865
+ 309902148293032679695602873525305217193308856858395487
+
+Name: config/Dio.xdm
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377420210310880440551411026141472822470087872422886365
+ 7922641661665300932879716517247364978468765696097221
+

@@ -1,0 +1,8 @@
+
+Name: config/Dem.xdm
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 74155374890382822809470171209065800160539209601751521457080
+ 37826091558441302173722599810913780284001544724183575787
+
