@@ -1,0 +1,8 @@
+
+Name: generate/template/Bfx_Bswmd.arxml
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 28964594773968037086422420931190365340726949332415895086490
+ 362454872311045270245385660483622213864550778088520263
+

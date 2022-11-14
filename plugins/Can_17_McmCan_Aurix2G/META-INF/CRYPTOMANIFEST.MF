@@ -1,0 +1,50 @@
+
+Name: generate/template/inc/Can_17_McmCan_Externals.h
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 28964594742727747514736517391831864270165693958445973108637
+ 138445106167293126391166926623389122644939653037142004
+
+Name: generate/template/inc/Can_17_McmCan_PBcfg.h
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377421753316200921785303204826321781929300504901955158
+ 6591229063098204378772672289299116209482872298725814
+
+Name: config/Can_17_McmCan.xdm
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377423657413149032948105363826895833112383374805426491
+ 5547257312765679398078811487812499316450886016174316
+
+Name: generate/template/src/Can_17_McmCan_PBcfg.c
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377422161404143538471190430951359906297571628024791509
+ 5407151700495681447347191569923970901570918543909167
+
+Name: generate/template/Can_17_McmCan.m
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 28964594773970723827673899964219553131320038342297258552821
+ 440325964283815445998753360010457780401369582353818471
+
+Name: generate/template/inc/Can_17_McmCan_Cfg.h
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377421827148070224090268152007866335032464552282338652
+ 1338337024649600155017997962371389035563163107949560
+
+Name: generate/template/Can_17_McmCan_Bswmd.arxml
+SignatureKeyID: Infineon
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377426454567617171642042026969712332468236643242046505
+ 9219314762143080425433411637924273839098164207465793
+
